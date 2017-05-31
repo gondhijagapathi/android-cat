@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Records and persists the rooms the bot has joined.
- * @author Michael Angstadt
+ * @author jagapathi
  */
 public class Rooms {
 	private final Database db;
